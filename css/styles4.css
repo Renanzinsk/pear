@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(255, 255, 255);
+}
+
+#reçpgio {
+    text-align: center;
+    color: rgb(157, 255, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 2rem;
+}
+
+#relogio {
+    text-align: center;
+}
